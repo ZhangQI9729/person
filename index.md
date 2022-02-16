@@ -1,4 +1,6 @@
-## Welcome to Qi Zhang‘s Pages
+## Qi Zhang
+
+Welcome to my homepage!
 
 You can use the [editor on GitHub](https://github.com/ZhangQI9729/zhangqimath.GitHub.com/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
